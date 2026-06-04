@@ -2,16 +2,9 @@
   command = "npx @11ty/eleventy"
   publish = "_site"
 
-# Ensure HTML pages are served correctly (disable Pretty URLs stripping .html)
-[[redirects]]
-  from = "/appeal-success"
-  to = "/appeal-success.html"
-  status = 200
-
-[[redirects]]
-  from = "/appeal"
-  to = "/appeal.html"
-  status = 200
+# Ensure HTML pages are served correctly
+# Netlify automatically handles clean URLs (e.g. /appeal/index.html is served at /appeal)
+# So no manual redirects are needed for these pages.
 
 [[redirects]]
   from = "/yarik"
