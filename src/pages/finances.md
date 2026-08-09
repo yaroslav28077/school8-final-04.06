@@ -261,6 +261,15 @@ blocks:
                 url: ""
                 doc_icon: "fas fa-clock"
 
+          - title: "Річний план закупівель"
+            icon: "fas fa-clipboard-list"
+            documents: 
+              - available: true
+                name: "Переглянути документ"
+                url: "/assets/docs/richny-plan-zakupivel-2026.pdf"
+                doc_icon: "fas fa-file-pdf"
+
+
 
       - year: "2025"
         categories: 
