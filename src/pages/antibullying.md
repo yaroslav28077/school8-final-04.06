@@ -34,6 +34,13 @@ blocks:
             url: "https://drive.google.com/file/d/1KwQyfVc_rB0ZZoRcVsIUCQWAUJ8KQ8H-/view?usp=sharing"
             date: "(2025-2026 н.р.)"
 
+      - year: "2026-2027 н.р."
+        documents: 
+          - name: "Положення про запобігання булінгу"
+            url: "https://drive.google.com/file/d/1nd2xIQhR3Bo2EFfGTtNfuLC7APnOejFt/view?usp=sharing"
+            date: "(2026-2027 н.р.)"
+
+
 
   - type: "docs_block"
     docs_style: "simple"
