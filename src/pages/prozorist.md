@@ -7,7 +7,7 @@ blocks:
   - type: prozorist_block
     title: Прозорість та інформаційна відкритість
     reports:
-      - year: 2026 рік
+      - year: "2026"
         url: https://drive.google.com/file/d/1kY-BXn3ohRLfRt2vPJdZEQYs-CeLU-P2/view?usp=sharing
       - year: "2025"
         url: /assets/docs/zvit2025.pdf
