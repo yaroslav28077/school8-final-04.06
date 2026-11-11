@@ -37,7 +37,7 @@ blocks:
       - name: |
           Вербенець
           Юлія Володимирівна
-        subject: Вчитель етики
+        subject: Вчитель СЕЕН, ЗБД
         photo: /assets/img/t-verbenets.jpg
         category: Спеціаліст ІІ категорії
         title_badge: ""
