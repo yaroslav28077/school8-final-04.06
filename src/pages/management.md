@@ -24,7 +24,7 @@ blocks:
         photo: /assets/img/admin-tarasenko.jpg
       - name: Тімоха Світлана Іванівна
         subject: Заступник директора з виховної роботи
-        photo: /assets/img/uploads/зображення_viber_2026-11-11_11-21-05-149.jpg
+        photo: /assets/img/uploads/photo_5449683818223705351_y.jpg
   - type: table_block
     title: 📅 Графік особистого прийому громадян адміністрацією закладу освіти
     headers_csv: Дні тижня/місяця,Години прийому,Посадова особа
