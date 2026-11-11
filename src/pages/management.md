@@ -22,7 +22,7 @@ blocks:
           Світлана Петрівна
         subject: Заступник директора з навчальної роботи
         photo: /assets/img/admin-tarasenko.jpg
-      - name: Тімоха Світлана Іванівна
+      - name: ТімохаСвітлана Іванівна
         subject: Заступник директора з виховної роботи
         photo: /assets/img/uploads/зображення_viber_2026-11-11_13-19-40-682222.jpg
   - type: table_block
