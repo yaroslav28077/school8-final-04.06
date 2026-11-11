@@ -129,10 +129,11 @@ blocks:
         subject: Асистент учителя
         category: Спеціаліст
         experience: 5 років
+        photo: /assets/img/uploads/зображення_viber_2026-11-11_15-49-05-457.jpg
       - subject: Асистент учителя
         name: Данилевська Олександра Олегівна
         category: Спеціаліст
-        photo: /assets/img/uploads/зображення_viber_2026-11-11_12-00-41-849.jpg
+        photo: /assets/img/uploads/зображення_viber_2026-11-11_14-29-36-935.jpg
       - name: Даць Віта Сергіївна
         subject: Асистент учителя
         photo: /assets/img/uploads/зображення_viber_2026-11-11_13-22-19-653.jpg
