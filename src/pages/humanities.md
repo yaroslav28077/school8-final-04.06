@@ -18,7 +18,7 @@ blocks:
         experience: 25 роки
       - name: Гайдабура Оксана Анатоліївна
         subject: Вчитель англійської мови
-        photo: ""
+        photo: /assets/img/uploads/зображення_viber_2026-11-11_13-40-53-296.jpg
         category: Спеціаліст другої категорії
         title_badge: ""
         experience: 8 років
