@@ -15,21 +15,19 @@ blocks:
         photo: /assets/img/t-bala.jpg
         category: Спеціаліст вищої категорії
         title_badge: Учитель-методист
-        experience: 34 роки
+        experience: 25 роки
       - name: Гайдабура Оксана Анатоліївна
         subject: Вчитель англійської мови
         photo: ""
-        category: Спеціаліст вищої категорії
+        category: Спеціаліст другої категорії
         title_badge: ""
-        experience: 25 років
-      - name: |
-          Литвих
-          Тетяна Володимирівна
+        experience: 8 років
+      - name: ТімохаСвітлана Іванівна
         subject: Вчитель зарубіжної літератури
-        photo: /assets/img/t-lytvykh.jpg
-        category: Спеціаліст І категорії
-        title_badge: ""
-        experience: 5 років
+        photo: /assets/img/uploads/photo_5449683818223705351_y.jpg
+        category: "Спеціаліст вищої категорії. "
+        title_badge: Старший учитель.
+        experience: 34 років
       - name: |
           Мельник
           Лілія Юріївна
@@ -37,7 +35,7 @@ blocks:
         photo: /assets/img/t-melnyk.jpg
         category: Спеціаліст І категорії
         title_badge: ""
-        experience: 13 років
+        experience: 14 років
       - name: |
           Помаз
           Вікторія Григорівна
@@ -45,7 +43,7 @@ blocks:
         photo: /assets/img/t-pomaz.jpg
         category: Спеціаліст І категорії
         title_badge: ""
-        experience: 18 років
+        experience: 19 років
       - name: |
           Сафронова
           Ірина Олександрівна
@@ -53,7 +51,7 @@ blocks:
         photo: /assets/img/t-safronova.jpg
         category: Спеціаліст вищої категорії
         title_badge: Учитель-методист
-        experience: 43 роки
+        experience: 44 роки
       - name: |
           Шовкопляс
           Людмила Анатоліївна
@@ -61,7 +59,7 @@ blocks:
         photo: /assets/img/t-shovkoplias.jpg
         category: Спеціаліст І категорії
         title_badge: ""
-        experience: 9 років
+        experience: 10 років
       - name: |
           Юрченко
           Аліна Сергіївна
@@ -69,5 +67,5 @@ blocks:
         photo: /assets/img/t-yurchenko.jpg
         category: Спеціаліст вищої категорії
         title_badge: Учитель-методист
-        experience: 23 роки
+        experience: 24 роки
 ---
