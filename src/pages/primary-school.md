@@ -91,7 +91,7 @@ blocks:
         experience: 15 років
       - name: Парнюк Лариса Анатоліївна
         subject: Вчитель початкових класів
-        class_name: 3-В клас
+        class_name: 4-В клас
         photo: /assets/img/uploads/зображення_viber_2026-11-11_13-22-19-360.jpg
         category: Спеціаліст вищої категорії
         title_badge: Учитель-митодист
@@ -108,7 +108,7 @@ blocks:
           Некрут
           Аліна Миколаївна
         subject: Вихователь ГПД
-        photo: /assets/img/t-nekrut.jpg
+        photo: /assets/img/uploads/зображення_viber_2026-11-11_14-31-10-441.jpg
         category: Спеціаліст
         title_badge: ""
         experience: 1 рік
