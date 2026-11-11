@@ -22,7 +22,7 @@ blocks:
         subtitle: Класний керівник
       - class_name: 6-Б клас
         name: Харченко Аліна Григорівна
-        photo: ""
+        photo: /assets/img/uploads/зображення_viber_2026-11-11_15-49-05-457.jpg
         subtitle: Класний керівник
       - class_name: 7-А клас
         name: |
