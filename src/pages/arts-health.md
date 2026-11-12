@@ -38,7 +38,7 @@ blocks:
           Вербенець
           Юлія Володимирівна
         subject: Вчитель СЕЕН, ЗБД
-        photo: /assets/img/t-verbenets.jpg
+        photo: /assets/img/uploads/зображення_viber_2026-11-12_09-50-38-550.jpg
         category: Спеціаліст ІІ категорії
         title_badge: ""
         experience: 2 роки
