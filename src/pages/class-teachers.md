@@ -10,7 +10,7 @@ blocks:
     cards:
       - class_name: 5-А клас
         name: Вербенець Юлія Володимирівна
-        photo: /assets/img/uploads/t-verbenets.jpg
+        photo: /assets/img/uploads/зображення_viber_2026-11-12_09-50-38-550.jpg
       - name: Шип Світлана Миколаївна
         photo: /assets/img/uploads/t-shyp.jpg
         class_name: 5-Б клас
