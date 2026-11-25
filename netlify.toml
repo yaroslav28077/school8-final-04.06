@@ -1,6 +1,8 @@
 [build]
   command = "npx @11ty/eleventy"
   publish = "_site"
+  functions = "netlify/functions"
+  ignore = 'test -z "$INCOMING_HOOK_TITLE" && test -n "$CACHED_COMMIT_REF" && test "$CACHED_COMMIT_REF" != "$COMMIT_REF" && git diff --quiet "$CACHED_COMMIT_REF" "$COMMIT_REF" -- src assets books netlify .eleventy.js package.json package-lock.json netlify.toml'
 
 # Ensure HTML pages are served correctly
 # Netlify automatically handles clean URLs (e.g. /appeal/index.html is served at /appeal)

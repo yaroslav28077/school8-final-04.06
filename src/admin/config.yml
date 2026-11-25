@@ -1,6 +1,12 @@
 backend:
   name: git-gateway
   branch: main
+  commit_messages:
+    create: 'Create {{collection}} "{{slug}}" [skip netlify]'
+    update: 'Update {{collection}} "{{slug}}" [skip netlify]'
+    delete: 'Delete {{collection}} "{{slug}}" [skip netlify]'
+    uploadMedia: 'Upload "{{path}}" [skip netlify]'
+    deleteMedia: 'Delete "{{path}}" [skip netlify]'
 
 local_backend: true
 
