@@ -37,6 +37,9 @@ blocks:
           - name: Положення про запобігання булінгу
             url: https://drive.google.com/file/d/1130DTqFMniK6xq8K8khaH3Uk2T9gxMFH/view?usp=sharing
             date: (2026-2027 н.р.)
+          - url: https://docs.google.com/document/d/1Nfrb20EAkLxVOKuBTJKeUwtDrNJPlbbv/edit?usp=sharing&ouid=114220116981272591090&rtpof=true&sd=true
+            date: (2026-2027 н.р.)
+            name: Кібербулінг кіберполіція
   - type: docs_block
     docs_style: simple
     title: Загальна інформація та законодавство
