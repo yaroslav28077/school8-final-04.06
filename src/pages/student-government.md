@@ -76,12 +76,22 @@ blocks:
           - Остроух Злата
           - Канівець Дмитро
           - Тарануха Дарина
+      - name: «ПРАВА ДИТИНИ»
+        icon: 👨‍👩‍👧‍👦
+        members:
+          - "Левченко Олексій     "
+          - "Артеменко Діана     "
+          - "Кондратенко Дар’я     "
+          - "Синенко Анжеліка     "
+          - Сидоренко Анастасія
     group_photo: ""
   - type: docs_block
     show_map_illustration: false
     documents:
       - url: https://drive.google.com/file/d/1FflYaPmXGd5yuIccevz2uRP0o5BHkKTq/view?usp=sharing
         name: "Положення про учнівське самоврядування "
+      - name: СТРУКТУРА УЧНІВСЬКОГО САМОВРЯДУВАННЯ
+        url: https://drive.google.com/file/d/1DIB6qyX9JEftpYa_MgQ5CuVUY7mnqmNt/view?usp=sharing
     title: Нормативно-правова база
     docs_style: simple
 ---
