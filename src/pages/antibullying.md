@@ -34,9 +34,14 @@ blocks:
             date: (2025-2026 н.р.)
       - year: 2026-2027 н.р.
         documents:
-          - name: Положення про запобігання булінгу
+          - name: "Положення про запобігання та протидію насильству та жорстокому поводженню
+              з дітьми "
             url: https://drive.google.com/file/d/1130DTqFMniK6xq8K8khaH3Uk2T9gxMFH/view?usp=sharing
             date: (2026-2027 н.р.)
+          - name: "План заходів із запобігання та профілактики насильства, жорстокого
+              поводження з дітьми та булінгу  з дітьми  "
+            date: (2026-2027 н.р.)
+            url: https://drive.google.com/file/d/10zp8Z_GznOOOqSA4ZeXmrGzhYLutCmuH/view?usp=sharing
           - url: https://docs.google.com/document/d/1Nfrb20EAkLxVOKuBTJKeUwtDrNJPlbbv/edit?usp=sharing&ouid=114220116981272591090&rtpof=true&sd=true
             date: (2026-2027 н.р.)
             name: Кібербулінг кіберполіція
